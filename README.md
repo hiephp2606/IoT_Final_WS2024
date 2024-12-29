@@ -7,13 +7,26 @@
 
 ![image](https://github.com/user-attachments/assets/c546a472-1556-4ef5-8b7d-a46aed0c2a1f) 
 ## Linh kiện sử dụng
- -  Cảm biến khói (MQ2/MQ135)
+ -  Cảm biến khói và khí gas (MQ2/MQ135)
  -  Cảm biến nhiệt độ (DHT11/DHT22)
  -  Mạch ESP32
  -  Buzzer (báo cháy khi xảy ra sự cố)
  -  LED
 ## Sơ đồ khối
 ![image](https://github.com/user-attachments/assets/33ce0f25-0ec4-45fa-a90f-15f84838cbdc)
+## Video kết quả
+
+https://github.com/user-attachments/assets/ec630876-16a1-4302-89e7-0f2facff2054
+
+
+
+https://github.com/user-attachments/assets/c127de9b-68e9-477f-93cd-09295978bbc9
+
+
+## Hình ảnh thiết bị
+
+![z6178778754392_609845a09e07d6183aacd12fbbe6c93b](https://github.com/user-attachments/assets/9159587e-4eb5-415f-9edd-4ca0f542f915)
+
 ## Kết luận 
  - Mô hình vẫn chỉ trên quy mô đơn giản và chưa có độ chính xác cao, tuy nhiên đó là nền tảng cho những cải tiến về sự chính xác và độ chống chịu cho những thiết kế sau này.
  - Project giúp em mở rộng hiểu biết hơn về NODEred cũng như những ứng dụng của công cụ này cho những hệ thống IoT. 
